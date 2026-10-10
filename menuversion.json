@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "sha256": "e98a88d850e52a3647afbda11dad70ebcd292a73d6ab35aa34f1cf604b9aeffe",
-  "downloadUrl": "https://github.com/iimenu/project/releases/download/1.2.2/ii.Reborn.dll",
-  "releaseUrl": "https://github.com/iimenu/project/releases/tag/1.2.2",
-  "timestamp": "2026-10-08T19Z",
-  "signature": "6PATbU7QMwzZXgjpHQwcxik9rOhuB07pWRUkr1Cr8EdCxSrqpfEi4STCYgFTYt7pGhb2D51psNWyoTFuyUQ01w=="
+  "version": "1.2.3",
+  "sha256": "2f439496e36a44cef1461cec466404dfb272433027d0dba3fbbf8d81088716af",
+  "downloadUrl": "https://github.com/iimenu/project/releases/download/1.2.3/ii.Reborn.dll",
+  "releaseUrl": "https://github.com/iimenu/project/releases/tag/1.2.3",
+  "timestamp": "2026-10-10T20Z",
+  "signature": "/dB7OPm26a0FD8TCfxkZu5LNdg2fsjWjOIkqM+UUPahmdayyJKB4Jyp3U3A5x/I5KM5Uw4ZkqyNDM40g7cTlyA=="
 }
